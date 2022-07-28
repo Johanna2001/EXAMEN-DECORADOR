@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="EXAMEN_DECORADOR.Heladeria">
+    <Position X="0.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgAAIAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAg=</HashCode>
+      <FileName>Heladeria.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EXAMEN_DECORADOR.BaseHelado">
+    <Position X="5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAA=</HashCode>
+      <FileName>BaseHelado.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EXAMEN_DECORADOR.HeladoRegular">
+    <Position X="3.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAA=</HashCode>
+      <FileName>HeladoRegular.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EXAMEN_DECORADOR.Helado">
+    <Position X="6.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAA=</HashCode>
+      <FileName>Helado.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EXAMEN_DECORADOR.Helado1">
+    <Position X="7.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAA=</HashCode>
+      <FileName>Helado1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="EXAMEN_DECORADOR.Helado2">
+    <Position X="2.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAA=</HashCode>
+      <FileName>Helado2.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
